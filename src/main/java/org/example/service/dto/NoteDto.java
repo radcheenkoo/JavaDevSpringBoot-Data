@@ -15,7 +15,6 @@ import java.util.UUID;
 public class NoteDto {
 
     private UUID id;
-    private Long userId;
     private String title;
     private String content;
     private LocalDate createdDate;
